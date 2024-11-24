@@ -1,0 +1,7 @@
+
+# python venv
+venv
+
+# dataset
+imdb-dataset/*
+
