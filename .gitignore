@@ -8,3 +8,6 @@ venv
 # dataset
 imdb-dataset/*
 
+# vscode files
+.vscode
+
